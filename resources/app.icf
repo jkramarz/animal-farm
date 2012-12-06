@@ -1,0 +1,11 @@
+[S3E]
+MemSize=10000000
+MemSizeDebug=10000000
+SysGlesVersion=2
+DispFixRot="Landscape" 
+
+[GL]
+AllowNegativeUniformLocation=1
+
+[QUICK]
+mainFileName="main.lua"
